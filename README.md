@@ -17,7 +17,7 @@ Unit tests [Github](https://www.jeremymorgan.com/tutorials/c-sharp/how-to-net-co
 See [LICENSE](LICENSE)
 
 # Contributors
-See [CONTRIBUTORS](CONTRIBUTORS)
+See [CONTRIBUTORS](CONTRIBUTORS.txt)
 
 
 [license-image]:          http://img.shields.io/badge/license-MIT-blue.svg?style=flat
