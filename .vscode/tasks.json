@@ -7,9 +7,13 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/emaiparser-librarytester/emaiparser-librarytester.csproj"
+                "${workspaceFolder}/emailparser-librarytester/emailparser-librarytester.csproj"
             ],
-            "problemMatcher": "$msCompile"
+            "problemMatcher": "$msCompile",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
         }
     ]
 }
