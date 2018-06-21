@@ -2,9 +2,9 @@
 
 using emaiparser_lib;
 
-namespace eprunner
+namespace emaiparserrunner
 {
-    class Program
+    public static class Program
     {
         static void Main(string[] args)
         {
